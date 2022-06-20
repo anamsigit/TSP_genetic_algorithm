@@ -1,0 +1,8 @@
+# number of cities / points
+m = len(x)
+
+# number of chromosomes in population
+n = 100
+
+# maximum generation
+N = 200
