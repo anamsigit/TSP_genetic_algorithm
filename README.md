@@ -38,6 +38,10 @@ so there are 86 nodes that need to be connected. formed nodes
 then transformed into Cartesian coordinates with
 Geogebra which can be accessed online at https://www.geogebra.org/m/JMMKv7cx
 
+<img width="400" height="320" src="https://github.com/anamsigit/TSP_genetic_algorithm/blob/main/images/wonotoromap4.png">
+
+extract coordinates told by geogbra and transfer to numpy array for plotting using matplotlib
+
 ![](images/to_matplotlib.png) 
 
 So when plotted, you will get the image model below, with
@@ -52,10 +56,6 @@ Euclidean geometry based on the concept of distance. Euclidian distance is usefu
 in some applications where the input data consists of a collection of distances, and
 the output is the set of points in Euclidean space that gives
 actual distance values (Liberti et al., 2014).
-
-<img width="400" height="320" src="https://github.com/anamsigit/TSP_genetic_algorithm/blob/main/images/wonotoromap4.png">
-
-extract coordinates told by geogbra and transfer to numpy array for plotting using matplotlib
 
 <img width="400" height="200" src="https://github.com/anamsigit/TSP_genetic_algorithm/blob/main/images/euclidiandistance.png">
 
