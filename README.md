@@ -28,6 +28,31 @@ marked with red nodes and water springs marked with
 the cross marks as the potential for EBT Microhydro, while the red line is
 a line that limits the area of the Wonotoro village itself
 
-![](images/wonotoroplan1.png) 
-![](images/wonotoromap4.png) 
+![](images/wonotoromap1.png) 
+![](images/wonotoromap2.png) 
+![](images/wonotoromap3.png) 
+## 2. Coordinate Determination
+From data, the number of active houses is 86.
+so there are 86 nodes that need to be connected. formed nodes
+then transformed into Cartesian coordinates with
+Geogebra which can be accessed online at https://www.geogebra.org/m/JMMKv7cx
+
+![](images/to_matplotlib.png) 
+
+So when plotted, you will get the image model below, with
+node J as the location of Sendang Siraman (Water Spring).
+
+## 3. Calculation of the distance of each node
+Calculation of fitness is needed for the needs of the Algorithm
+Genetics to find the best solution. Calculation of the distance between nodes
+doing with the Euclide Distance Formula and the results are stored
+into a matrix. Euclidean Distance Geometry is the study of
+Euclidean geometry based on the concept of distance. Euclidian distance is useful
+in some applications where the input data consists of a collection of distances, and
+the output is the set of points in Euclidean space that gives
+actual distance values (Liberti et al., 2014).
+
+
+
+
 
