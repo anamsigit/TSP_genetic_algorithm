@@ -29,8 +29,8 @@ the cross marks as the potential for EBT Microhydro, while the red line is
 a line that limits the area of the Wonotoro village itself
 
 ![](images/wonotoromap1.png) 
-![](images/wonotoromap2.png) 
-![](images/wonotoromap3.png) 
+![](images/wonotoromap2.png | width=100) 
+![](images/wonotoromap3.png =250x250)  
 ## 2. Coordinate Determination
 From data, the number of active houses is 86.
 so there are 86 nodes that need to be connected. formed nodes
