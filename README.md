@@ -53,6 +53,10 @@ in some applications where the input data consists of a collection of distances,
 the output is the set of points in Euclidean space that gives
 actual distance values (Liberti et al., 2014).
 
+<img width="350" height="350" src="https://github.com/anamsigit/TSP_genetic_algorithm/blob/main/images/wonotoromap4.png">
+
+extract coordinates told by geogbra and transfer to numpy array for plotting using matplotlib
+
 <img width="400" height="200" src="https://github.com/anamsigit/TSP_genetic_algorithm/blob/main/images/euclidiandistance.png">
 
 ## 4. Genetics Algorithm Processing
