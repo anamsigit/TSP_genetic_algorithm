@@ -108,7 +108,7 @@ important for GA convergence while crossover is not. But roles
 mutations are often underestimated in the field of Evolutionary Computing (de Falco et al.,
 2002). The following is an illustration of the mutation application for this case
 
-<img width="1000" height="250" src="https://github.com/anamsigit/TSP_genetic_algorithm/blob/main/images/mutation.png">
+<img width="1000" height="100" src="https://github.com/anamsigit/TSP_genetic_algorithm/blob/main/images/mutation.png">
 
 Mutations are carried out by replacing a gene with another gene in 1
 chromosome type
