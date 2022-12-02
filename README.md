@@ -29,5 +29,5 @@ the cross marks as the potential for EBT Microhydro, while the red line is
 a line that limits the area of the Wonotoro village itself
 
 ![](images/wonotoroplan1.png) 
-![](images/tampilan awal geogebra.png) 
+![](images/'tampilan awal geogebra.png') 
 
